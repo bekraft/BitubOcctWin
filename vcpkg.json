@@ -1,0 +1,11 @@
+{
+  "dependencies": [
+    "opencascade"
+  ],
+  "overrides": [
+    { 
+        "name": "opencascade", 
+        "version": "7.7.2"
+    }
+  ]
+}
