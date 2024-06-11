@@ -6,7 +6,7 @@
     <authors>bernold.kraft@gmail.com</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">LGPL-2.1-only</license>
-    <projectUrl>https://github.com/bekraft/Bitub.Occt.Win</projectUrl>
+    <projectUrl>https://github.com/bekraft/BitubOcctWin</projectUrl>
     <description>Bitub Open Cascade Win Binary Redidtribution Package</description>
     <releaseNotes>OpenCascade is a 3D modelling and authoring SDK made by https://github.com/Open-Cascade-SAS/OCCT</releaseNotes>
     <copyright>Bernold Kraft</copyright>

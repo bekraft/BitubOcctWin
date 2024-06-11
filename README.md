@@ -1,4 +1,4 @@
-# Bitub OCCT
+# Bitub OCCT Redistribution Builder
 
 Open Cascade (Occt) binary NuGet package builder. Builds and packages Occt as x86 and x64 prebuilt binaries
 and headers files into a single nuget package.
@@ -33,7 +33,7 @@ Within the consuming project create a file `package.config`:
 Add an additional `ImportGroup` to the consumer project configuration:
 ```xml 
   <ImportGroup Label="OcctLibraries">
-    <Import Project="..\packages\Bitub.Occt.7.7.2\build\Bitub.Occt.targets" />
+    <Import Project="..\packages\Bitub.Occt.Win10.7.7.2\build\Bitub.Occt.Win10.targets" />
   </ImportGroup>
 ```
 
